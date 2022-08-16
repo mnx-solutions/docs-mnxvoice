@@ -17,3 +17,8 @@ Yes!   We have a thorough process to port you numbers that will ensure almost no
 ## How fast does my internet need to be?
 
 A good rule of thumb is 100Kbps per active phone call.  For a 10 user office, this would equate to 1Mbps of upload and 1Mbps of download bandwidth dedicated to voice service.
+
+```term
+$ echo 'hello' # This will print hello 
+hello
+```
