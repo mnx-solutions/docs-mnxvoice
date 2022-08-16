@@ -8,7 +8,7 @@ description: >-
 
 ## Why VoIP?
 
-Unlike on-premise systems, your VoIP phone system can be taken anywhere. The flexibility of VoIP provides endless possible configurations (which we help you define) to match your business processes.&#x20;
+Unlike on-premise systems, your VoIP phone system can be taken anywhere. The flexibility of VoIP provides endless possible configurations (which we help you define) to match your business processes..
 
 ## Can I Keep my phone numbers?
 
